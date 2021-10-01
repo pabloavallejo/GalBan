@@ -1,0 +1,521 @@
+{
+  "status": "success",
+  "data": {
+    "resultType": "vector",
+    "result": [
+      {
+        "metric": {
+          "namespace": "openshift-authentication-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.033280103948157"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-cloud-credential-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.0027390393888873004"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-cluster-samples-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.001807281322221907"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-kube-apiserver"
+        },
+        "value": [
+          1633042506.428,
+          "0.7774268087743187"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-service-ca"
+        },
+        "value": [
+          1633042506.428,
+          "0.0040937847333326425"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-dns"
+        },
+        "value": [
+          1633042506.428,
+          "0.05410668656296813"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "misc-cyberseg-lab"
+        },
+        "value": [
+          1633042506.428,
+          "0.02472541865557071"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-apiserver"
+        },
+        "value": [
+          1633042506.428,
+          "0.07535276743704648"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-service-ca-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.00451752425555309"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "test-hashicorp-vault"
+        },
+        "value": [
+          1633042506.428,
+          "0.00007455055925926028"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-kube-controller-manager"
+        },
+        "value": [
+          1633042506.428,
+          "0.04477509079629577"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-dns-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.0010910857481473226"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-ingress-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.0016119165481482181"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-authentication"
+        },
+        "value": [
+          1633042506.428,
+          "0.008265495981481342"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-apiserver-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.015115606322231342"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-controller-manager-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.007283364840744374"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-monitoring"
+        },
+        "value": [
+          1633042506.428,
+          "1.2651616455742836"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-console-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.0050453978518514"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-vsphere-infra"
+        },
+        "value": [
+          1633042506.428,
+          "0.34495982412959453"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-local-storage"
+        },
+        "value": [
+          1633042506.428,
+          "0.00410411071111117"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-etcd-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.022814154514829474"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-ingress-canary"
+        },
+        "value": [
+          1633042506.428,
+          "0.00006254963703703817"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "open-cluster-management-agent-addon"
+        },
+        "value": [
+          1633042506.428,
+          "0.11832063538519434"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-insights"
+        },
+        "value": [
+          1633042506.428,
+          "0.002884126348147186"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-sdn"
+        },
+        "value": [
+          1633042506.428,
+          "0.05596261293703987"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-machine-config-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.016841574659259007"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-logging"
+        },
+        "value": [
+          1633042506.428,
+          "1.2731905012816003"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "open-cluster-management-agent"
+        },
+        "value": [
+          1633042506.428,
+          "0.026996048637031186"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-kube-scheduler-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.02002888645556932"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-network-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.007172631511113853"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-marketplace"
+        },
+        "value": [
+          1633042506.428,
+          "0.15323785858889089"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-kube-storage-version-migrator"
+        },
+        "value": [
+          1633042506.428,
+          "0.0002145165703704303"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "appd-k8extension-lab"
+        },
+        "value": [
+          1633042506.428,
+          "0.0669697903222224"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-network-diagnostics"
+        },
+        "value": [
+          1633042506.428,
+          "0.005007049574076127"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-cluster-storage-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.012676060140746818"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-console"
+        },
+        "value": [
+          1633042506.428,
+          "0.004209524074076819"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-config-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.007263590388888757"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-operator-lifecycle-manager"
+        },
+        "value": [
+          1633042506.428,
+          "0.04866287279996699"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-machine-api"
+        },
+        "value": [
+          1633042506.428,
+          "0.009695833048148316"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-image-registry"
+        },
+        "value": [
+          1633042506.428,
+          "0.008030251111110871"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-controller-manager"
+        },
+        "value": [
+          1633042506.428,
+          "0.004387829633333662"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-etcd"
+        },
+        "value": [
+          1633042506.428,
+          "0.4771956500520699"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-oauth-apiserver"
+        },
+        "value": [
+          1633042506.428,
+          "0.057111317600033046"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-ingress"
+        },
+        "value": [
+          1633042506.428,
+          "0.018130053659262593"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "appdynamics"
+        },
+        "value": [
+          1633042506.428,
+          "0.6451286237703729"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-cluster-version"
+        },
+        "value": [
+          1633042506.428,
+          "0.011300289070370414"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-operators-redhat"
+        },
+        "value": [
+          1633042506.428,
+          "0.15647258498513755"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-cluster-node-tuning-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.006677831044445448"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-kube-apiserver-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.031140306722254197"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-kube-scheduler"
+        },
+        "value": [
+          1633042506.428,
+          "0.01771914574074163"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-storage"
+        },
+        "value": [
+          1633042506.428,
+          "0.7181975686296234"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-multus"
+        },
+        "value": [
+          1633042506.428,
+          "0.03902048324814851"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "test-hashicorp-vault3"
+        },
+        "value": [
+          1633042506.428,
+          "0.00007617614074075303"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-cluster-machine-approver"
+        },
+        "value": [
+          1633042506.428,
+          "0.0007214822962960507"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "test-hashicorp-vault2"
+        },
+        "value": [
+          1633042506.428,
+          "0.00018009199629629108"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-kube-controller-manager-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.02096824139629866"
+        ]
+      },
+      {
+        "metric": {
+          "namespace": "openshift-kube-storage-version-migrator-operator"
+        },
+        "value": [
+          1633042506.428,
+          "0.011504989118515774"
+        ]
+      }
+    ]
+  }
+}
